@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Amani Kavalo",
+  "home_page_url": "https://amanikavalo.github.io/",
+  "feed_url": "https://amanikavalo.github.io/feed.json",
+  "description": "Personal website for Amani Kavalo",
+  "favicon": "https://amanikavalo.github.io//assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "Amani Kavalo",
+    "url": "https://amanikavalo.github.io/"
+  },
+  "items": [
+    
+    
+
+    
+  ]
+}
